@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ETL process with SQL and Python
 - 👨🏼‍💻 I have 7 years of experience in database and software development
-- 🌱 I’m currently learning Django and cloud technologies
+- 🌱 I’m currently learning data engineering
 
 <div> 
   <a href = "mailto:victor.scandolara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
